@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+main{
+    background-color: lightgreen;
+    color: red;
+    text-align: center;
+}
+main{
+    box-sizing: 30px;
+    color: yellow;
+}
+.ms{
+    display: flex;
+}

@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    color: white;
+}
+
+.logo img{
+    width: 40px;
+    border-radius: 10px;
+    display: flex;
+    
+} 
+
+.logo{
+    display: flex;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+    text-align: center;
+    align-items: center;
+    background-color: red;
+    margin: 0px;
+    padding: 6px;
+    border: 7px;
+}
+
+h1{
+    display: flex;
+    size-adjust: 16px;
+    
+}
+ nav ul{
+    display: flex;
+    gap: 4rem;
+    list-style-type: none;
+    
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: blue;
+}

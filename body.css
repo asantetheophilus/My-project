@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    background-color: red;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration-color: aliceblue;
+}
+.box-1{
+    color: aqua;
+    color-scheme: background: #fff;;
+    
+}
